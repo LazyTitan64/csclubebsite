@@ -1,0 +1,16 @@
+h1 {
+  text-decoration: underline;
+}
+
+.center {
+  width: 100vw;
+  margin: 25px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+* {
+  margin: 10px;
+}
